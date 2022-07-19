@@ -255,7 +255,7 @@ h3 {
     background-color: #ff6600;
 }
 .images {
-    background-image:url(../Image/banner3.jpg);
+    background-image:url(../image/banner3.jpg);
     background-position: center;
     min-height: 600px;
     background-size: cover;
